@@ -3,6 +3,8 @@
 *
 *  11/22 ryu10
 *
+* (directives and macros in sbasm)
+*
 *       TTL asciiart.asm
         .cr 6809
         .tf asciiart.s19,s19
