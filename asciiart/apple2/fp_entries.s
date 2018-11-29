@@ -1,5 +1,8 @@
 ; fp_entries.s
 ; fp entries in Applesoft ROM
+;
+; 11/03/2018 ryu10
+;
 FSUB	= $e7a7
 FSUBT	= $e7aa
 FADD	= $e7be

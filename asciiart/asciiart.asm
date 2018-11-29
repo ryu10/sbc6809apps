@@ -1,4 +1,8 @@
+* asciiart.asm
 * Mandelbrot set asciiart program for SBC6809 w/Basic9 FP routines
+*
+*  11/22 ryu10
+*
 *       TTL asciiart.asm
         .cr 6809
         .tf asciiart.s19,s19

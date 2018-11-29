@@ -3,7 +3,7 @@
 ;
 ; 11/03/2018 ryu10
 ;
-; Preambles
+; Preambles for CA65
 .import __STARTUP_LOAD__, __BSS_LOAD__ ; Linker generated
 
 .segment "EXEHDR"
