@@ -1,5 +1,5 @@
 *       fp6809.asm
-*       Floating Point entries from Basic9
+*       Floating Point entries in Basic9
 *
 fsub    = $f0ff         ; SUBTRACT FPA0 FROM FP NUMBER POINTED TO BY (X), LEAVE RESULT IN FPA0 (LB9B9)
 fadd    = $f108         ; ADD FP NUMBER POINTED TO BY (X) TO FPA0 - LEAVE RESULT IN FPA0 (LB9C2)
