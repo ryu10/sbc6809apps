@@ -19,7 +19,7 @@ imin    = 0
 imax    = 15
 char_A  = 'A
 char_0  = '0
-char_sp = ' ; the whitespace would be trimmed without this comment
+char_sp = ' '
 * include Basic9 FP entries / Assist09 swi services
         .in fp6809      ; include fp6809.asm
         .in assist09swi ; include assist09swi.asm
